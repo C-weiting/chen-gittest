@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
       <el-button @click="add">增加</el-button>
+      {{name}}
   </div>
 </template>
 
